@@ -9,12 +9,12 @@
 </h3>
 
 <p>
-  <img alt="Vue.js" src="assets/vuejs.svg" width="40"/>
-  <img alt="JavaScript" src="assets/javascript.svg" width="40"/>
-  <img alt="HTML 5" src="assets/html5.svg" width="40"/>
-  <img alt="CSS 3" src="assets/css3.svg" width="40" />
-  <img alt="Node.js" src="assets/nodejs.svg" width="40" />
-  <img alt="Java" src="assets/java.svg" width="40" />
+  <img alt="Vue.js" src="assets/vuejs.svg" width="40" style="margin-right:10px;"/>
+  <img alt="JavaScript" src="assets/javascript.svg" width="40" style="margin-right:10px;"/>
+  <img alt="HTML 5" src="assets/html5.svg" width="40" style="margin-right:10px;"/>
+  <img alt="CSS 3" src="assets/css3.svg" width="40" style="margin-right:10px;"/>
+  <img alt="Node.js" src="assets/nodejs.svg" width="40" style="margin-right:10px;"/>
+  <img alt="Java" src="assets/java.svg" width="40"/>
 </p>
 
 <br>
