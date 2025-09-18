@@ -9,11 +9,12 @@
 </h3>
 
 <p>
-  <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img alt="Vue.js" src="assets/vuejs.svg"/>
+  <img alt="JavaScript" src="assets/javascript.svg"/>
+  <img alt="HTML 5" src="assets/html5.svg"/>
+  <img alt="CSS 3" src="assets/css3.svg" />
+  <img alt="Node.js" src="assets/nodejs.svg"/>
+  <img alt="Java" src="assets/java.svg"/>
 </p>
 
 <br>
