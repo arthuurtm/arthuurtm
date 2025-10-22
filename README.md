@@ -27,7 +27,9 @@
     </h3>
   </div>
   <div>
-    [![arthuurtm's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthuurtm&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthuurtm&layout=compact)
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="Estatísticas do GitHub de arthuurtm" src="https://github-readme-stats.vercel.app/api?username=arthuurtm&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+    </a>
+    <img alt="Linguagens Mais Usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuurtm&layout=compact" />
   </div>
 </div>
